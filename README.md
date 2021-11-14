@@ -1,0 +1,2 @@
+# FFXIV Lodestone Duty Scraper
+ 

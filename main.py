@@ -1,8 +1,9 @@
 import json
+import time
 import traceback
 import requests
 import bs4
-
+import re
 from tqdm import tqdm
 
 # config this!
@@ -28,6 +29,8 @@ url_raids = url_base + "5"
 url_pvp = url_base + "6"
 url_ultimate = url_base + "28"
 
+coords_regex = r"X: ([0-9, .]*) Y: ([0-9, .]*)"
+
 fails = []
 
 
@@ -42,6 +45,11 @@ def extract_treasure_box(div_box):
     div_coord = div_inner.find(name="div", attrs={"class": "db-view__treasure_box_popup__map_coordinates"})
     if div_coord:
         box["coord"] = div_coord.get_text().strip()
+        coords_match = re.search(coords_regex, box["coord"])
+        if coords_match:
+            box["coords"] = {}
+            box["coords"]["x"] = coords_match.group(1)
+            box["coords"]["y"] = coords_match.group(2)
 
     div_item = div_inner.find(name="div", attrs={"class": "db-view__treasure_box_popup__treasure_items"})
     if div_item:
@@ -224,8 +232,11 @@ def crawl_duty_start(load_local):
     duties = []
 
     if load_local:
+        print("Load local. Starting in 3 seconds...")
+        time.sleep(3)
         duties = json.load(open("Duties.json"))
     else:
+        print("Re-scraping duty list, please wait...")
         crawl_instance(duties, url_guildhests, "guildhest")
         crawl_instance(duties, url_dungeon, "dungeon", pages=2)
         crawl_instance(duties, url_trials, "trial", pages=2)
@@ -236,19 +247,24 @@ def crawl_duty_start(load_local):
         with open('Duties.json', "w+") as file:
             file.write(json.dumps(duties, indent=4))
 
+    print("Start scraping.")
     for duty in tqdm(duties):
         if duty["category"] == "guildhest":
             continue
         crawl_single_duty(duty)
 
+    print("Retrying failed ones...")
     for duty in tqdm(fails):
         crawl_single_duty(duty)
 
+    print("Writing FFXIV Data - Duties.json.")
     with open('FFXIV Data - Duties.json', "w+") as file:
         file.write(json.dumps(duties, indent=4))
 
+    print("Writing fails.json.")
     with open('fails.json', "w+") as file:
         file.write(json.dumps(fails, indent=4))
+    print("Done.")
 
 
 if __name__ == '__main__':

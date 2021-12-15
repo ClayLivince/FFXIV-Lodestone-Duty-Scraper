@@ -10,7 +10,7 @@ from tqdm import tqdm
 # if true:
 # it will use the local dungeon list generated last time
 # else it will regenerate a duty list.
-LOAD_LOCAL = True
+LOAD_LOCAL = False
 
 user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 " \
              "Safari/537.36 "
@@ -72,6 +72,8 @@ def extract_treasure_box(div_box):
 
 def crawl_single_duty(duty):
     try:
+        if duty in fails:
+            fails.remove(duty)
         req_duty = requests.get(host + duty["url"], headers=header)
     except Exception:
         fails.append(duty)

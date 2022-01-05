@@ -728,6 +728,70 @@
         "ilvl": "490"
     },
     {
+        "category": "dungeon",
+        "version": "Endwalker",
+        "name": "The Tower of Zot",
+        "url": "/lodestone/playguide/db/duty/9c317b74e3a/",
+        "lvl": "81",
+        "ilvl": "500"
+    },
+    {
+        "category": "dungeon",
+        "version": "Endwalker",
+        "name": "The Tower of Babil",
+        "url": "/lodestone/playguide/db/duty/3297718033f/",
+        "lvl": "83",
+        "ilvl": "505"
+    },
+    {
+        "category": "dungeon",
+        "version": "Endwalker",
+        "name": "Vanaspati",
+        "url": "/lodestone/playguide/db/duty/dadcd891cc1/",
+        "lvl": "85",
+        "ilvl": "510"
+    },
+    {
+        "category": "dungeon",
+        "version": "Endwalker",
+        "name": "Ktisis Hyperboreia",
+        "url": "/lodestone/playguide/db/duty/8514a64c969/",
+        "lvl": "87",
+        "ilvl": "515"
+    },
+    {
+        "category": "dungeon",
+        "version": "Endwalker",
+        "name": "The Aitiascope",
+        "url": "/lodestone/playguide/db/duty/fd65b266f55/",
+        "lvl": "89",
+        "ilvl": "520"
+    },
+    {
+        "category": "dungeon",
+        "version": "Endwalker",
+        "name": "The Dead Ends",
+        "url": "/lodestone/playguide/db/duty/ba59c193b71/",
+        "lvl": "90",
+        "ilvl": "540"
+    },
+    {
+        "category": "dungeon",
+        "version": "Endwalker",
+        "name": "Smileton",
+        "url": "/lodestone/playguide/db/duty/175e6a7245d/",
+        "lvl": "90",
+        "ilvl": "540"
+    },
+    {
+        "category": "dungeon",
+        "version": "Endwalker",
+        "name": "The Stigma Dreamscape",
+        "url": "/lodestone/playguide/db/duty/25f8ec27427/",
+        "lvl": "90",
+        "ilvl": "540"
+    },
+    {
         "category": "trial",
         "version": "A Realm Reborn",
         "name": "The Bowl of Embers",
@@ -1310,6 +1374,46 @@
         "url": "/lodestone/playguide/db/duty/c4a2acf0912/",
         "lvl": "80",
         "ilvl": "510"
+    },
+    {
+        "category": "trial",
+        "version": "Endwalker",
+        "name": "The Dark Inside",
+        "url": "/lodestone/playguide/db/duty/6eed2137942/",
+        "lvl": "83",
+        "ilvl": "-"
+    },
+    {
+        "category": "trial",
+        "version": "Endwalker",
+        "name": "The Mothercrystal",
+        "url": "/lodestone/playguide/db/duty/044b34a37ca/",
+        "lvl": "89",
+        "ilvl": "-"
+    },
+    {
+        "category": "trial",
+        "version": "Endwalker",
+        "name": "The Final Day",
+        "url": "/lodestone/playguide/db/duty/7b4070f67f6/",
+        "lvl": "90",
+        "ilvl": "540"
+    },
+    {
+        "category": "trial",
+        "version": "Endwalker",
+        "name": "The Minstrel's Ballad: Zodiark's Fall",
+        "url": "/lodestone/playguide/db/duty/f40a8f14d6d/",
+        "lvl": "90",
+        "ilvl": "560"
+    },
+    {
+        "category": "trial",
+        "version": "Endwalker",
+        "name": "The Minstrel's Ballad: Hydaelyn's Call",
+        "url": "/lodestone/playguide/db/duty/0dbba05fd0f/",
+        "lvl": "90",
+        "ilvl": "560"
     },
     {
         "category": "raid",

@@ -227,7 +227,7 @@
         "category": "dungeon",
         "version": "A Realm Reborn",
         "name": "The Praetorium",
-        "url": "/lodestone/playguide/db/duty/2407dbd0cae/",
+        "url": "/lodestone/playguide/db/duty/f6de0165484/",
         "lvl": "50",
         "ilvl": "42"
     },
@@ -792,6 +792,14 @@
         "ilvl": "540"
     },
     {
+        "category": "dungeon",
+        "version": "Endwalker",
+        "name": "Alzadaal's Legacy",
+        "url": "/lodestone/playguide/db/duty/d56ff366a07/",
+        "lvl": "90",
+        "ilvl": "560"
+    },
+    {
         "category": "trial",
         "version": "A Realm Reborn",
         "name": "The Bowl of Embers",
@@ -818,9 +826,9 @@
     {
         "category": "trial",
         "version": "A Realm Reborn",
-        "name": "Cape Westwind",
-        "url": "/lodestone/playguide/db/duty/d85fe0d02a1/",
-        "lvl": "49",
+        "name": "The Porta Decumana",
+        "url": "/lodestone/playguide/db/duty/f369418dbf8/",
+        "lvl": "50",
         "ilvl": "-"
     },
     {
@@ -1378,6 +1386,14 @@
     {
         "category": "trial",
         "version": "Endwalker",
+        "name": "Ultima's Bane (Unreal)",
+        "url": "/lodestone/playguide/db/duty/492d3638dd0/",
+        "lvl": "90",
+        "ilvl": "560"
+    },
+    {
+        "category": "trial",
+        "version": "Endwalker",
         "name": "The Dark Inside",
         "url": "/lodestone/playguide/db/duty/6eed2137942/",
         "lvl": "83",
@@ -1414,6 +1430,14 @@
         "url": "/lodestone/playguide/db/duty/0dbba05fd0f/",
         "lvl": "90",
         "ilvl": "560"
+    },
+    {
+        "category": "trial",
+        "version": "Endwalker",
+        "name": "The Minstrel's Ballad: Endsinger's Aria",
+        "url": "/lodestone/playguide/db/duty/0c90d0fd67b/",
+        "lvl": "90",
+        "ilvl": "580"
     },
     {
         "category": "raid",
@@ -2222,6 +2246,70 @@
         "url": "/lodestone/playguide/db/duty/6a038f0d5ef/",
         "lvl": "80",
         "ilvl": "510"
+    },
+    {
+        "category": "raid",
+        "version": "Endwalker",
+        "name": "Asphodelos: The First Circle",
+        "url": "/lodestone/playguide/db/duty/87c1d270e4a/",
+        "lvl": "90",
+        "ilvl": "565"
+    },
+    {
+        "category": "raid",
+        "version": "Endwalker",
+        "name": "Asphodelos: The Second Circle",
+        "url": "/lodestone/playguide/db/duty/53197e092c0/",
+        "lvl": "90",
+        "ilvl": "565"
+    },
+    {
+        "category": "raid",
+        "version": "Endwalker",
+        "name": "Asphodelos: The Third Circle",
+        "url": "/lodestone/playguide/db/duty/489f861eb7b/",
+        "lvl": "90",
+        "ilvl": "565"
+    },
+    {
+        "category": "raid",
+        "version": "Endwalker",
+        "name": "Asphodelos: The Fourth Circle",
+        "url": "/lodestone/playguide/db/duty/8766feb6d35/",
+        "lvl": "90",
+        "ilvl": "565"
+    },
+    {
+        "category": "raid",
+        "version": "Endwalker",
+        "name": "Asphodelos: The First Circle (Savage)",
+        "url": "/lodestone/playguide/db/duty/4b208ad41f2/",
+        "lvl": "90",
+        "ilvl": "570"
+    },
+    {
+        "category": "raid",
+        "version": "Endwalker",
+        "name": "Asphodelos: The Second Circle (Savage)",
+        "url": "/lodestone/playguide/db/duty/35e4afe3707/",
+        "lvl": "90",
+        "ilvl": "575"
+    },
+    {
+        "category": "raid",
+        "version": "Endwalker",
+        "name": "Asphodelos: The Third Circle (Savage)",
+        "url": "/lodestone/playguide/db/duty/a0917729fae/",
+        "lvl": "90",
+        "ilvl": "580"
+    },
+    {
+        "category": "raid",
+        "version": "Endwalker",
+        "name": "Asphodelos: The Fourth Circle (Savage)",
+        "url": "/lodestone/playguide/db/duty/ae08cc4d4bf/",
+        "lvl": "90",
+        "ilvl": "580"
     },
     {
         "category": "ultimate",

@@ -72,8 +72,6 @@ def extract_treasure_box(div_box):
 
 def crawl_single_duty(duty):
     try:
-        if duty in fails:
-            fails.remove(duty)
         req_duty = requests.get(host + duty["url"], headers=header)
     except Exception:
         fails.append(duty)

@@ -800,6 +800,14 @@
         "ilvl": "560"
     },
     {
+        "category": "dungeon",
+        "version": "Endwalker",
+        "name": "The Fell Court of Troia",
+        "url": "/lodestone/playguide/db/duty/d75f0e7733b/",
+        "lvl": "90",
+        "ilvl": "575"
+    },
+    {
         "category": "trial",
         "version": "A Realm Reborn",
         "name": "The Bowl of Embers",
@@ -829,21 +837,13 @@
         "name": "The Porta Decumana",
         "url": "/lodestone/playguide/db/duty/f369418dbf8/",
         "lvl": "50",
-        "ilvl": "-"
+        "ilvl": "42"
     },
     {
         "category": "trial",
         "version": "A Realm Reborn",
         "name": "The Chrysalis",
         "url": "/lodestone/playguide/db/duty/2fac3746c16/",
-        "lvl": "50",
-        "ilvl": "90"
-    },
-    {
-        "category": "trial",
-        "version": "A Realm Reborn",
-        "name": "The Steps of Faith",
-        "url": "/lodestone/playguide/db/duty/f80af21461f/",
         "lvl": "50",
         "ilvl": "90"
     },
@@ -1386,8 +1386,8 @@
     {
         "category": "trial",
         "version": "Endwalker",
-        "name": "Ultima's Bane (Unreal)",
-        "url": "/lodestone/playguide/db/duty/492d3638dd0/",
+        "name": "Containment Bay S1T7 (Unreal)",
+        "url": "/lodestone/playguide/db/duty/21f82f10d12/",
         "lvl": "90",
         "ilvl": "560"
     },
@@ -1418,6 +1418,14 @@
     {
         "category": "trial",
         "version": "Endwalker",
+        "name": "Storm's Crown",
+        "url": "/lodestone/playguide/db/duty/7db24777c99/",
+        "lvl": "90",
+        "ilvl": "585"
+    },
+    {
+        "category": "trial",
+        "version": "Endwalker",
         "name": "The Minstrel's Ballad: Zodiark's Fall",
         "url": "/lodestone/playguide/db/duty/f40a8f14d6d/",
         "lvl": "90",
@@ -1438,6 +1446,14 @@
         "url": "/lodestone/playguide/db/duty/0c90d0fd67b/",
         "lvl": "90",
         "ilvl": "580"
+    },
+    {
+        "category": "trial",
+        "version": "Endwalker",
+        "name": "Storm's Crown (Extreme)",
+        "url": "/lodestone/playguide/db/duty/7aa78623503/",
+        "lvl": "90",
+        "ilvl": "600"
     },
     {
         "category": "raid",
@@ -2250,6 +2266,14 @@
     {
         "category": "raid",
         "version": "Endwalker",
+        "name": "Aglaia",
+        "url": "/lodestone/playguide/db/duty/ced36158c27/",
+        "lvl": "90",
+        "ilvl": "565"
+    },
+    {
+        "category": "raid",
+        "version": "Endwalker",
         "name": "Asphodelos: The First Circle",
         "url": "/lodestone/playguide/db/duty/87c1d270e4a/",
         "lvl": "90",
@@ -2333,6 +2357,14 @@
         "name": "The Epic of Alexander (Ultimate)",
         "url": "/lodestone/playguide/db/duty/b56710190e9/",
         "lvl": "80",
+        "ilvl": "-"
+    },
+    {
+        "category": "ultimate",
+        "version": "Endwalker",
+        "name": "Dragonsong's Reprise (Ultimate)",
+        "url": "/lodestone/playguide/db/duty/ba184b63c2d/",
+        "lvl": "90",
         "ilvl": "-"
     }
 ]

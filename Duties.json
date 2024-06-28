@@ -808,6 +808,30 @@
         "ilvl": "575"
     },
     {
+        "category": "dungeon",
+        "version": "Endwalker",
+        "name": "Lapis Manalis",
+        "url": "/lodestone/playguide/db/duty/ce91893321f/",
+        "lvl": "90",
+        "ilvl": "590"
+    },
+    {
+        "category": "dungeon",
+        "version": "Endwalker",
+        "name": "The Aetherfont",
+        "url": "/lodestone/playguide/db/duty/ee802d0c0ef/",
+        "lvl": "90",
+        "ilvl": "605"
+    },
+    {
+        "category": "dungeon",
+        "version": "Endwalker",
+        "name": "The Lunar Subterrane",
+        "url": "/lodestone/playguide/db/duty/f3d52caf5b5/",
+        "lvl": "90",
+        "ilvl": "620"
+    },
+    {
         "category": "trial",
         "version": "A Realm Reborn",
         "name": "The Bowl of Embers",
@@ -1386,14 +1410,6 @@
     {
         "category": "trial",
         "version": "Endwalker",
-        "name": "Containment Bay S1T7 (Unreal)",
-        "url": "/lodestone/playguide/db/duty/21f82f10d12/",
-        "lvl": "90",
-        "ilvl": "560"
-    },
-    {
-        "category": "trial",
-        "version": "Endwalker",
         "name": "The Dark Inside",
         "url": "/lodestone/playguide/db/duty/6eed2137942/",
         "lvl": "83",
@@ -1426,6 +1442,38 @@
     {
         "category": "trial",
         "version": "Endwalker",
+        "name": "Mount Ordeals",
+        "url": "/lodestone/playguide/db/duty/524d9878b6b/",
+        "lvl": "90",
+        "ilvl": "595"
+    },
+    {
+        "category": "trial",
+        "version": "Endwalker",
+        "name": "The Voidcast Dais",
+        "url": "/lodestone/playguide/db/duty/f1f90009296/",
+        "lvl": "90",
+        "ilvl": "615"
+    },
+    {
+        "category": "trial",
+        "version": "Endwalker",
+        "name": "The Abyssal Fracture",
+        "url": "/lodestone/playguide/db/duty/dd8721dfa4b/",
+        "lvl": "90",
+        "ilvl": "625"
+    },
+    {
+        "category": "trial",
+        "version": "Endwalker",
+        "name": "The Gilded Araya",
+        "url": "/lodestone/playguide/db/duty/17ba391b62b/",
+        "lvl": "90",
+        "ilvl": "625"
+    },
+    {
+        "category": "trial",
+        "version": "Endwalker",
         "name": "The Minstrel's Ballad: Zodiark's Fall",
         "url": "/lodestone/playguide/db/duty/f40a8f14d6d/",
         "lvl": "90",
@@ -1454,6 +1502,30 @@
         "url": "/lodestone/playguide/db/duty/7aa78623503/",
         "lvl": "90",
         "ilvl": "600"
+    },
+    {
+        "category": "trial",
+        "version": "Endwalker",
+        "name": "Mount Ordeals (Extreme)",
+        "url": "/lodestone/playguide/db/duty/0eb5dd38d5a/",
+        "lvl": "90",
+        "ilvl": "610"
+    },
+    {
+        "category": "trial",
+        "version": "Endwalker",
+        "name": "The Voidcast Dais (Extreme)",
+        "url": "/lodestone/playguide/db/duty/ea1daa24090/",
+        "lvl": "90",
+        "ilvl": "630"
+    },
+    {
+        "category": "trial",
+        "version": "Endwalker",
+        "name": "The Abyssal Fracture (Extreme)",
+        "url": "/lodestone/playguide/db/duty/04dba833267/",
+        "lvl": "90",
+        "ilvl": "640"
     },
     {
         "category": "raid",
@@ -2274,6 +2346,22 @@
     {
         "category": "raid",
         "version": "Endwalker",
+        "name": "Euphrosyne",
+        "url": "/lodestone/playguide/db/duty/990f420dd6e/",
+        "lvl": "90",
+        "ilvl": "595"
+    },
+    {
+        "category": "raid",
+        "version": "Endwalker",
+        "name": "Thaleia",
+        "url": "/lodestone/playguide/db/duty/d4b9d40f28b/",
+        "lvl": "90",
+        "ilvl": "625"
+    },
+    {
+        "category": "raid",
+        "version": "Endwalker",
         "name": "Asphodelos: The First Circle",
         "url": "/lodestone/playguide/db/duty/87c1d270e4a/",
         "lvl": "90",
@@ -2302,6 +2390,70 @@
         "url": "/lodestone/playguide/db/duty/8766feb6d35/",
         "lvl": "90",
         "ilvl": "565"
+    },
+    {
+        "category": "raid",
+        "version": "Endwalker",
+        "name": "Abyssos: The Fifth Circle",
+        "url": "/lodestone/playguide/db/duty/d214bf6237c/",
+        "lvl": "90",
+        "ilvl": "585"
+    },
+    {
+        "category": "raid",
+        "version": "Endwalker",
+        "name": "Abyssos: The Sixth Circle",
+        "url": "/lodestone/playguide/db/duty/96af4bd34f2/",
+        "lvl": "90",
+        "ilvl": "585"
+    },
+    {
+        "category": "raid",
+        "version": "Endwalker",
+        "name": "Abyssos: The Seventh Circle",
+        "url": "/lodestone/playguide/db/duty/0929b0c05bc/",
+        "lvl": "90",
+        "ilvl": "585"
+    },
+    {
+        "category": "raid",
+        "version": "Endwalker",
+        "name": "Abyssos: The Eighth Circle",
+        "url": "/lodestone/playguide/db/duty/4d2ad8ae660/",
+        "lvl": "90",
+        "ilvl": "585"
+    },
+    {
+        "category": "raid",
+        "version": "Endwalker",
+        "name": "Anabaseios: The Ninth Circle",
+        "url": "/lodestone/playguide/db/duty/27ea99ce75a/",
+        "lvl": "90",
+        "ilvl": "615"
+    },
+    {
+        "category": "raid",
+        "version": "Endwalker",
+        "name": "Anabaseios: The Tenth Circle",
+        "url": "/lodestone/playguide/db/duty/335e519ce87/",
+        "lvl": "90",
+        "ilvl": "615"
+    },
+    {
+        "category": "raid",
+        "version": "Endwalker",
+        "name": "Anabaseios: The Eleventh Circle",
+        "url": "/lodestone/playguide/db/duty/e142dd574bd/",
+        "lvl": "90",
+        "ilvl": "615"
+    },
+    {
+        "category": "raid",
+        "version": "Endwalker",
+        "name": "Anabaseios: The Twelfth Circle",
+        "url": "/lodestone/playguide/db/duty/33b1d5ca8c6/",
+        "lvl": "90",
+        "ilvl": "615"
     },
     {
         "category": "raid",
@@ -2336,6 +2488,70 @@
         "ilvl": "580"
     },
     {
+        "category": "raid",
+        "version": "Endwalker",
+        "name": "Abyssos: The Fifth Circle (Savage)",
+        "url": "/lodestone/playguide/db/duty/2fde7757141/",
+        "lvl": "90",
+        "ilvl": "600"
+    },
+    {
+        "category": "raid",
+        "version": "Endwalker",
+        "name": "Abyssos: The Sixth Circle (Savage)",
+        "url": "/lodestone/playguide/db/duty/8c58de9229d/",
+        "lvl": "90",
+        "ilvl": "605"
+    },
+    {
+        "category": "raid",
+        "version": "Endwalker",
+        "name": "Abyssos: The Seventh Circle (Savage)",
+        "url": "/lodestone/playguide/db/duty/8d0f4a3b03c/",
+        "lvl": "90",
+        "ilvl": "610"
+    },
+    {
+        "category": "raid",
+        "version": "Endwalker",
+        "name": "Abyssos: The Eighth Circle (Savage)",
+        "url": "/lodestone/playguide/db/duty/415152e3e5d/",
+        "lvl": "90",
+        "ilvl": "610"
+    },
+    {
+        "category": "raid",
+        "version": "Endwalker",
+        "name": "Anabaseios: The Ninth Circle (Savage)",
+        "url": "/lodestone/playguide/db/duty/aec1462687d/",
+        "lvl": "90",
+        "ilvl": "630"
+    },
+    {
+        "category": "raid",
+        "version": "Endwalker",
+        "name": "Anabaseios: The Tenth Circle (Savage)",
+        "url": "/lodestone/playguide/db/duty/5f4cfac710d/",
+        "lvl": "90",
+        "ilvl": "635"
+    },
+    {
+        "category": "raid",
+        "version": "Endwalker",
+        "name": "Anabaseios: The Eleventh Circle (Savage)",
+        "url": "/lodestone/playguide/db/duty/d10aca4942d/",
+        "lvl": "90",
+        "ilvl": "640"
+    },
+    {
+        "category": "raid",
+        "version": "Endwalker",
+        "name": "Anabaseios: The Twelfth Circle (Savage)",
+        "url": "/lodestone/playguide/db/duty/870a31c60c4/",
+        "lvl": "90",
+        "ilvl": "640"
+    },
+    {
         "category": "ultimate",
         "version": "Stormblood",
         "name": "The Unending Coil of Bahamut (Ultimate)",
@@ -2364,6 +2580,14 @@
         "version": "Endwalker",
         "name": "Dragonsong's Reprise (Ultimate)",
         "url": "/lodestone/playguide/db/duty/ba184b63c2d/",
+        "lvl": "90",
+        "ilvl": "-"
+    },
+    {
+        "category": "ultimate",
+        "version": "Endwalker",
+        "name": "The Omega Protocol (Ultimate)",
+        "url": "/lodestone/playguide/db/duty/dccacd176f4/",
         "lvl": "90",
         "ilvl": "-"
     }
